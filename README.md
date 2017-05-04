@@ -34,3 +34,4 @@ rabbitmq的 hello world 例子
        </dependencies>
     （2）创建生产者 send 和 接收者 receiver
     （3）运行测试
+    参考：https://spring.io/guides/gs/messaging-rabbitmq/
